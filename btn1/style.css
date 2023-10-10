@@ -30,7 +30,7 @@ a::before {
     width: 100%;
     height: 100%;
     background: linear-gradient(#FF3CAC, #784BA0, #2B86C5);
-    transform: translatex(-100%);
+    transform: translateX(-100%);
     transition: all 1s;
     /*center*/
     display: flex;

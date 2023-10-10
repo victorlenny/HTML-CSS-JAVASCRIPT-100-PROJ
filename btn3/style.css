@@ -48,12 +48,12 @@ a::after {
 a:hover:before {
     top: -6px;
     left: 0;
-    transform: perspective(1000px) rotatex(75deg);
+    transform: perspective(1000px) rotateX(75deg);
 }
 a:hover:after {
     top: -6px;
     left: 0;
-    transform: perspective(1000px) rotatex(-75deg);
+    transform: perspective(1000px) rotateX(-75deg);
 }
 a:hover {
     color: red;
